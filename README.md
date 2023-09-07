@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Uki%20Mahfuda&theme=city-lights&hide_border=true&border_radius=5&card_width=990&type=png)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Uki%20Mahfuda&theme=city-lights&hide_border=true&border_radius=50&card_width=900)](https://git.io/streak-stats)
