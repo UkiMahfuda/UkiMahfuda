@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Uki%20Mahfuda&theme=react&hide_border=true&border_radius=15&card_width=900)](https://git.io/streak-stats)
+
+https://github-readme-stats.vercel.app/api?username=UkiMahfuda
+https://github-readme-stats.vercel.app/api/pin/?username=UkiMahfuda&repo=UkiMahfuda
+https://github-readme-stats.vercel.app/api/top-langs/?username=UkiMahfuda
+https://github-readme-stats.vercel.app/api/wakatime?username=UkiMahfuda
