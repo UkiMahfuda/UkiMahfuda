@@ -12,21 +12,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ukimahfuda&show_icons=true&theme=react&hide_border=true&border_radius=15&card_width=900)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Uki%20Mahfuda&theme=react&hide_border=true&border_radius=15&card_width=900)](https://git.io/streak-stats)
 -->
 <br>
 <a href="https://github.com/ukimahfuda">
-  <img height=200 width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=ukimahfuda&show_icons=true&theme=react&hide_border=true&border_radius=15" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ukimahfuda&show_icons=true&theme=react&hide_border=true&border_radius=20&card_width=350" />
 </a>
 <a href="https://github.com/ukimahfuda">
-  <img height=200 width=450 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Uki%20Mahfuda&theme=react&hide_border=true&border_radius=50)]https://git.io/streak-stats" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Uki%20Mahfuda&theme=react&hide_border=true&border_radius=20&card_width=350)]https://git.io/streak-stats" />
 </a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukimahfuda&layout=compact&card_width=900&theme=react&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukimahfuda&layout=compact&border_radius=20&card_width=850&theme=react&hide_border=true)
 
 
 
