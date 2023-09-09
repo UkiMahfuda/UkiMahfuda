@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Uki%20Mahfuda&theme=react&hide_border=true&border_radius=20&card_width=350)]https://git.io/streak-stats" />
 </a>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukimahfuda&layout=compact&border_radius=20&card_width=815&theme=react&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukimahfuda&layout=compact&border_radius=20&card_width=815&theme=react&hide_border=true&hide=SCSS,Less,Cmake )
 </div>
 
 
