@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ukimahfuda&show_icons=true&theme=react&hide_border=true&border_radius=15&card_width=900)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Uki%20Mahfuda&theme=react&hide_border=true&border_radius=15&card_width=900)](https://git.io/streak-stats)
