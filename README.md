@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 -->
 <br>
 <a href="https://github.com/ukimahfuda">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ukimahfuda&show_icons=true&theme=react&hide_border=true&border_radius=15" />
+  <img height=200 width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=ukimahfuda&show_icons=true&theme=react&hide_border=true&border_radius=15" />
 </a>
 <a href="https://github.com/ukimahfuda">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Uki%20Mahfuda&theme=react&hide_border=true&border_radius=15)](https://git.io/streak-stats" />
+  <img height=200 width=450 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Uki%20Mahfuda&theme=react&hide_border=true&border_radius=50)]https://git.io/streak-stats" />
 </a>
 
 
