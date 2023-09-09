@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Uki%20Mahfuda&theme=react&hide_border=true&border_radius=15&card_width=900)](https://git.io/streak-stats)
 -->
-
+<br>
 <a href="https://github.com/ukimahfuda">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ukimahfuda&show_icons=true&theme=react&hide_border=true&border_radius=15" />
 </a>
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukimahfuda&layout=compact&card_width=900&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukimahfuda&layout=compact&card_width=900&theme=react&hide_border=true)
 
 
 
