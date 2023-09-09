@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukimahfuda&layout=compact&border_radius=20&card_width=850&theme=react&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukimahfuda&layout=compact&border_radius=20&card_width=815&theme=react&hide_border=true)
 
 
 
