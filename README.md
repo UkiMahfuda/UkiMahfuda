@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukimahfuda&layout=compact&card_width=900&theme=react)
 
 <a href="https://github.com/ukimahfuda">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ukimahfuda&show_icons=true&theme=react&hide_border=true&border_radius=15&card_width=900" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ukimahfuda&show_icons=true&theme=react&hide_border=true&border_radius=15" />
 </a>
 <a href="https://github.com/ukimahfuda">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Uki%20Mahfuda&theme=react&hide_border=true&border_radius=15&card_width=900)](https://git.io/streak-stats" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Uki%20Mahfuda&theme=react&hide_border=true&border_radius=15)](https://git.io/streak-stats" />
 </a>
 
 
