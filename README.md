@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </a>
 <a>
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Uki%20Mahfuda&theme=react&hide_border=true&border_radius=20&card_width=325)]https://git.io/streak-stats" />
-</a>
+</a>    
 
   <a href="https://github.com/ukimahfuda">
     
