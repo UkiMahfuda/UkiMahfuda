@@ -28,7 +28,7 @@ theme=react
 
   <a href="https://github.com/ukimahfuda">
     
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukimahfuda&layout=compact&border_radius=20&card_width=815&theme=transparent&hide_border=true&hide=SCSS,HTML,Less,Cmake )
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukimahfuda&layout=compact&border_radius=20&card_width=815&theme=transparent&hide_border=true&hide=CSS,HTML,Less,Cmake )
 </a>
 </div>
 
