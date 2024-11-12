@@ -9,7 +9,7 @@
 
   <a href="https://github.com/ukimahfuda">
     
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukimahfuda&layout=compact&border_radius=20&card_width=815&theme=transparent&hide_border=true&hide=,SCSS,CSS,HTML,Less,Cmake )
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukimahfuda&layout=donut&theme=transparent&hide_border=true&hide=,SCSS,CSS,HTML,Less,Cmake )](https://github.com/anuraghazra/github-readme-stats)
 </a>
 </div>
 
